@@ -18,6 +18,6 @@ Welcome to Himdeve development, where we are preparing the best tutorials to mak
 
 https://himdeve.com/flutter-tutorials/flutter-tutorials-1-6-sliverlist
 
-## SK
+## SK/CZ
 
 https://himdeve.com/flutter-sk-cz-tutorialy/flutter-sk-cz-1-6-sliverlist
